@@ -1,3 +1,4 @@
+# Check Out The Latest Version [Here](https://github.com/dracula/x64dbg)
 # Dracula for [x64dbg](https://x64dbg.com/)
 
 > A dark theme for [x64dbg](https://x64dbg.com/).
